@@ -1,7 +1,6 @@
 import "./App.css";
 import { Route } from "react-router-dom";
 
-
 import HomePage from "./pages/homepage/HomePage.component";
 import ShopPage from "./pages/shop/shop.component";
 
