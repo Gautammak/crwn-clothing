@@ -1,5 +1,5 @@
 export const setCurrentUser = user => ({
     type : 'SET_CURRENT_USER',
-    PAYLOAD:user
+    payload:user
 
 })

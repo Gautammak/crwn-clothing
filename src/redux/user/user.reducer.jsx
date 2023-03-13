@@ -1,5 +1,3 @@
-import { Switch } from "react-router-dom";
-
 const INITIAL_STATE = {
   currentUser: null,
 };
